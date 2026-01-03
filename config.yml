@@ -45,6 +45,13 @@ tagline: >-
 links:
   - link:
       icon: "fa-brands fa-medium"
+      text: "Zach’s 2025: Places Worth Going"
+      url: "https://medium.com/fridayswell/zachs-2025-4c0722510a59"
+      alt: "Zach’s 2025: Places Worth Going"
+      title: "Zach’s 2025: Places Worth Going"
+      target: "_blank"
+  - link:
+      icon: "fa-brands fa-medium"
       text: "Zach’s 2024 Tops"
       url: "https://medium.com/fridayswell/zachs-2024-tops-99bacfcfb9be"
       alt: "Zach’s 2024 Tops"
