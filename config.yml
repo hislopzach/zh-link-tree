@@ -20,7 +20,7 @@ plugins:
       - hislopzach/spotify-data-viewer
 
 # Google Analytics tracking id
-google_analytics_id:
+google_analytics_id: "G-11XZBXSTKN"
 
 # HTML Title
 title: "Zach Hislop's Links"
